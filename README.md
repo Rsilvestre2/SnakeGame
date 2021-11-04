@@ -1,2 +1,2 @@
 # SnakeGame
-Scrimba snake game
+Scrimba snake game was a great intro to many JavaScript concepts.
